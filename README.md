@@ -57,3 +57,5 @@ This project analyzes corporate campus hiring trends for fresh graduates in Indi
 ## **DashBoard**
 
 <img src =https://github.com/Sharayu26/Corporate-Campus-Hiring-Analysis-/blob/main/Freshers%20Hiring.png>
+
+<img src =https://github.com/Sharayu26/Corporate-Campus-Hiring-Analysis-/blob/main/Job%20Overview.png>
