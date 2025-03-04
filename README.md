@@ -53,3 +53,7 @@ This project analyzes corporate campus hiring trends for fresh graduates in Indi
 - Kaggle Dataset (Job Market Data)
 - LinkedIn/Naukri for industry hiring trends
 - Salary benchmarks from industry reports
+
+## **DashBoard**
+
+<img src =https://github.com/Sharayu26/Corporate-Campus-Hiring-Analysis-/blob/main/Freshers%20Hiring.png>
