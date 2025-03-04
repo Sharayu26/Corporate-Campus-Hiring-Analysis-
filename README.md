@@ -1,5 +1,9 @@
 # **Corporate Campus Hiring Analysis -**
 
+
+<img width="1000" alt="home page" src="https://github.com/user-attachments/assets/9a6e895b-8cb4-4358-9bda-cf559c9de12a" />
+
+
 ## **Project Overview**
 This project analyzes corporate campus hiring trends for fresh graduates in India using Power BI. The dataset, sourced from Kaggle, contains job postings with details such as job titles, locations, and salary information. The goal is to identify hiring patterns, salary brackets, and job availability across different states and cities.
 
